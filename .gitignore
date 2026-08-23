@@ -15,7 +15,6 @@ dist-ssr
 .gemini
 .codegraph/
 # Editor directories and files
-.vscode/*
 .planning
 !.vscode/extensions.json
 .idea
@@ -51,3 +50,4 @@ target/
 docs/plugin-architecture-proposal.md
 .aitasks
 .qoder/
+config.bat
