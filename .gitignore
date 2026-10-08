@@ -1,4 +1,3 @@
-.vscode/*
 # Logs
 logs
 *.log
@@ -49,4 +48,6 @@ target/
 docs/plugin-architecture-proposal.md
 .aitasks
 .qoder/
+!.env.example
+!.env.template
 config.bat
